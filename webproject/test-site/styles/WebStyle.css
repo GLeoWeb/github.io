@@ -1,0 +1,27 @@
+html {
+  font-size: 10px; 
+  font-family: "Arial", sans-serif; 
+ }
+ BODY {background-color: rgb(128, 156, 180);
+       width: 600px;
+       margin: 0 auto;
+       padding: 0 20px 20px 20px;
+       border: 5px solid black;
+  }
+    h1 { margin: 0; padding: 20px 0; color: yellow;
+         text-shadow: 3px 3px 1px black; 
+		 text-align: center;}
+	H2 { text-align: center; color: blue; }
+	H3 { text-align: left; color: ;}
+	H4 { text-align: left; color: blue;}
+	TABLE.tabla {text-align: left; border = "1"}
+	P.special {color : green; border: solid red; }
+	P.nota1 {color : blue; border: solid blue; padding: 10px 10px 10px 10px; }
+	P.nota2 {color : red; border: solid black; padding: 10px 10px 10px 10px; }
+	DIV.nota1 {color : black; border: solid black; padding: 10px 10px 10px 10px; }
+	P.notaT {color : blue; font-style: bold; }
+	TEXTAREA.Opc1{color : Orange; font-family: "Arial", "San-Serif"; font-size: 12px; font-style: normal;
+	              background-color: rgb(20, 80, 180); }
+ 
+  img {display: block;  margin: 0 auto; }
+  
